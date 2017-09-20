@@ -1,5 +1,5 @@
 # chat
 
-aplikasi chat denga node js
+aplikasi chat dengan node js
 
 sumber: sekolahkoding.com
